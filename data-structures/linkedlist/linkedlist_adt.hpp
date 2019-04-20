@@ -6,6 +6,9 @@
     @email gauravyug@gmai.com
     @version 1.1
     @date 13-Oct-18
+
+    Modified by: Yasadu De Silva
+    Github: @lg4492
 */
 
 #ifndef ADT_LINKEDLIST_H_
